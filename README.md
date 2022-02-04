@@ -1,4 +1,4 @@
-<img align="right" height="9.25em" src="https://github.com/marcosbergami/images-in-readme/blob/main/memoji.png?raw=true"/>
+<img align="right" src="https://github.com/marcosbergami/images-in-readme/blob/main/memoji.png?raw=true"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcos Bergami</h1>
 
 - 💻 A Back-End Developer specialized in JavaScript technologies. Passionate about building scalable web applications with well-structured APIs and clean architecture.
