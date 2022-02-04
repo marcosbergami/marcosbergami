@@ -3,7 +3,7 @@
 
 - 💻 A Back-End Developer specialized in JavaScript technologies. Passionate about building scalable web applications with well-structured APIs and clean architecture.
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -14,7 +14,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -22,7 +22,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbergami&layout=compact&theme=nightowl" alt="marcosbergami's most used languages"/>
 </p>
 
-<br><br>
+<br>
 
 ## 📱 &nbsp;Social Links
 
